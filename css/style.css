@@ -1,4 +1,4 @@
-/* Created by: Joyce Nkengbeza
+/* Created by: Joyce Nkengebza
 * Created on: Feb 2025
 * This file contains the CSS for index.html
 */
@@ -15,15 +15,20 @@
 }
 
 .mdl-textfield__error {
-  color: lightgreen;
+  color: rgb(9, 18, 9);
 }
 
 .page-content {
-  color: rgb(237, 130, 116);
+  color: rgb(10, 2, 2);
   font-family: Helvetica, Arial, sans-serif;
   font-size: 1.25rem;
 }
 
 body {
-  background-color: rgb(237, 114, 241);
+  background-color: rgb(145, 177, 236);
+}
+
+img {
+  float: right;
+  height: 200px;
 }
